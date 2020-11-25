@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\bin\Debug\MoviesforRent.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\bin\Debug\MoviesforRent.exe
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\bin\Debug\MoviesforRent.pdb
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\obj\Debug\MoviesforRent.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\obj\Debug\MoviesforRent.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\obj\Debug\MoviesforRent.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\obj\Debug\MoviesforRent.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\obj\Debug\MoviesforRent.exe
+c:\users\hp\documents\visual studio 2015\Projects\MoviesforRent\MoviesforRent\obj\Debug\MoviesforRent.pdb
